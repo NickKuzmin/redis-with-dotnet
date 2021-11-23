@@ -1,1 +1,2 @@
-- **DOWNLOAD LINK:** https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504
+- **DOWNLOAD REDIS LINK:** https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504
+- **StackExchange.Redis:** https://stackexchange.github.io/StackExchange.Redis/Basics
